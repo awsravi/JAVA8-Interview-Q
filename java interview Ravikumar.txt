@@ -1,0 +1,26 @@
+1. Write a Java program to check whether a string is a Palindrome
+2. Write a Java program to reverse a string.
+3. Write a program that takes a string input from the user and then prints out How many number of vowel are available in the string.
+4. Write a program to count the words in a given
+String
+5. Write a program to count the character in given
+String
+6. Write a program to count the String each character frequency.
+7. Write a program to convert lower case latter in upper case.
+8. Write a program to reverse a word without disturbing the word position in Java.
+9. How to find the maximum occurring character in a given String?
+10. How to remove all duplicates word from a given string?
+11. How to check if two strings are rotations of each other?
+12. How do you convert a String to an integer?
+13. How to print the duplicate characters from the given String?
+14. How to remove characters from the first String which are present in the second String?
+15. How to print all permutations of a String?
+16. How to find the first non-repeating character in a given String?
+17. How to reverse the words in a given String sentence?
+18. How to check if two given String is the
+    anaaram of each other?
+19. How do you remove a given character from
+String?
+19. How do you check if a given string contains valid parentheses?
+20. How to convert Integer to Roman String?
+21. Reverse a sentence with same position without using string builder or string Buffer
