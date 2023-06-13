@@ -1,0 +1,31 @@
+1)Using java8 Streams API Find The Employees who is living in chennai and salary more than 50000?
+2)find no of times a number gets repeated in list using java8 input {2,2,3,1,4,4,5,6,7,8,6};
+3)Sort List of Employee Based on their salary using java8.
+4)3rd Largest salary from a employee list uisng java8.
+5)1st Largest salary from a employee list uisng java8.
+6)2nd Largest salary from a employee list uisng java8.
+5)Fibonacci using java8.
+6)java8 program to find all duplicate characters in a String.
+7)java8 program to count words in A given string.
+8)java8 program to reverse each word in a sentences.
+9)java8 program check if a string  is empty not empty & not null 
+10)java8 program to replace all occerences of given String .
+11)java8 program to replace all occerences of given integer.
+12)java8 present to print male = ravi, laka = female.
+13)java8 program to replace only first occerencesof given String with new one.
+14)java8 program to check if a vowel is present in the string.
+15)java8 program missing numbers in array with duplicats.
+17)Given a list of duplicate random number and find out how many times the each number comes in the list.
+18)print all divisible by2 if all the elements of list are divisible by 2 else "print all are not divisibleby 2".
+19)print at least 1 elements is divisible by2 if all the elements of list are divisible by 2 else "print no elements not divisibleby 2".
+20)optional class example program.
+21)toArray example program.
+22)java8 program find words starting with A and collect them and print it.
+23)java8 program filter employee and group the based on gender.
+24)java8 program find duplicate words in a string with their count it.
+25)crate custom functional interface.
+26)java8 program print MIN & MAX employee salary and collect.
+27)java8 program print MAX salary of an employee from each dept.
+28)java8 program print active and inactive employee given collection.
+29)java8 program print employee details working in each dept.
+30)java8 program print employee count working in each dept.
